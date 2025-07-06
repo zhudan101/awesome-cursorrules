@@ -1,0 +1,6 @@
+---
+description: Vue 3 组合式 API 中 composables 的特定规则。专注于如何使用 composables 构建和实现可重用逻辑。
+globs: src/composables/**/*.js
+---
+- 使用 setup() 函数处理组件逻辑
+- 利用 ref 和 reactive 创建响应式状态
